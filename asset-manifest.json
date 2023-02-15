@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.13dc575a.css",
+    "main.js": "/static/js/main.22161146.js",
+    "static/js/787.71e672d5.chunk.js": "/static/js/787.71e672d5.chunk.js",
+    "static/media/giphy_1.gif": "/static/media/giphy_1.a0e895f6a9c2972e0834.gif",
+    "static/media/workshop.png": "/static/media/workshop.0b0291463b4154720fa6.png",
+    "static/media/test.png": "/static/media/test.cc69f56ac395687d6d31.png",
+    "static/media/logo.png": "/static/media/logo.bea9f12899ade6a18fe7.png",
+    "static/media/teamback.png": "/static/media/teamback.410074a8c406dc881a85.png",
+    "static/media/chart.png": "/static/media/chart.a21fcfac3cc263e2c02b.png",
+    "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/nav-icon4.svg": "/static/media/nav-icon4.2f0390ae01f13c27e4192da8a156fbf2.svg",
+    "static/media/nav-icon2.svg": "/static/media/nav-icon2.b4c935eb7b9f7301e8e386ccb7f7abfa.svg",
+    "index.html": "/index.html",
+    "static/media/nav-icon1.svg": "/static/media/nav-icon1.dff40ae802524d8fc0cbce3f312abe4f.svg",
+    "main.13dc575a.css.map": "/static/css/main.13dc575a.css.map",
+    "main.22161146.js.map": "/static/js/main.22161146.js.map",
+    "787.71e672d5.chunk.js.map": "/static/js/787.71e672d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.13dc575a.css",
+    "static/js/main.22161146.js"
+  ]
+}
